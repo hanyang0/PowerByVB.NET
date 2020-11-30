@@ -1,0 +1,10 @@
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\bin\Debug\vbnet_1.1.exe
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\bin\Debug\vbnet_1.1.pdb
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\bin\Debug\vbnet_1.1.xml
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1.1.vbprojResolveAssemblyReference.cache
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1._1.Resources.resources
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1.1.vbproj.GenerateResource.Cache
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1.1.exe
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1.1.xml
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1.1.pdb
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\桌面\vs\vbnet_1.1\vbnet_1.1\obj\Debug\vbnet_1._1.Form1.resources
