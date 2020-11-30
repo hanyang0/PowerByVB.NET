@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\bin\Debug\power.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\bin\Debug\power.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\bin\Debug\power.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\bin\Debug\power.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\power\power\obj\Debug\power.pdb
