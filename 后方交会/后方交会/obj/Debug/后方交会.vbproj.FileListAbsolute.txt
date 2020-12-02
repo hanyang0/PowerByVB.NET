@@ -1,0 +1,13 @@
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\bin\Debug\后方交会.exe
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\bin\Debug\后方交会.pdb
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\bin\Debug\后方交会.xml
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\bin\Debug\byn\后方交会.resources.dll
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.vbprojResolveAssemblyReference.cache
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.Form2.resources
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.Resources.resources
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.Form2.byn.resources
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.vbproj.GenerateResource.Cache
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\byn\后方交会.resources.dll
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.exe
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.xml
+c:\users\hanya\onedrive - stu.ncwu.edu.cn\文档\visual studio 2015\Projects\后方交会\后方交会\obj\Debug\后方交会.pdb
