@@ -1,0 +1,11 @@
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\bin\Debug\class1.exe.config
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\bin\Debug\class1.exe
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\bin\Debug\class1.pdb
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\bin\Debug\class1.xml
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.vbprojResolveAssemblyReference.cache
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.Form1.resources
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.Resources.resources
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.vbproj.GenerateResource.Cache
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.exe
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.xml
+C:\Users\hanya\OneDrive - stu.ncwu.edu.cn\文档\Visual Studio 2015\Projects\class1\class1\obj\Debug\class1.pdb
